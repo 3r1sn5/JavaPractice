@@ -35,11 +35,11 @@ public class HW1
         System.out.println("Num after reassign : "+ num+"\r\n");
         //Page 26
 
-        int num1 = 10, num2;
+        /*int num1 = 10, num2;
         System.out.println("Value of num1 : "+ num1);
         num2 = num1;
         System.out.println("Assign Num1 to num2.");
-        System.out.println("Value of num2 : "+ num2 + "\r\n");
+        System.out.println("Value of num2 : "+ num2 + "\r\n");*/
         //Page 27
 
         System.out.println("Input a integer : ");

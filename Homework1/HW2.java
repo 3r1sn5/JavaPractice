@@ -36,7 +36,7 @@ public class HW2
         System.out.println("inum = " + inum + "\r\n");
         //Page38
 
-        int d = 2;
+        /*int d = 2;
         double pi = 3.14159;
         System.out.println("A circle with diameter " + d);
         System.out.println("Circumference : " + (d * pi) + " cm");
@@ -45,6 +45,6 @@ public class HW2
         double div2 = (double)num5 / (double)num6;
         System.out.println("5/2 = " + div1);
         System.out.println("5/2 = " + div2);
-        //Page 39
+        //Page 39*/
     }
 }
