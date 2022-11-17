@@ -1,8 +1,6 @@
 package Homework2;
 
 import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
 
 public class HW2 
 {
@@ -18,8 +16,8 @@ public class HW2
             System.out.print(" " + arr1[i]);
         }
         System.out.print("\n");
-        int[] arr2 = new int[50];
-        arr2 = arr1;
+        //int[] arr2 = new int[50];
+        //arr2 = arr1;
         for(int i = 0; i < arr1.length; i++)
         {
             for(int j = i + 1; j < arr1.length; j++)
